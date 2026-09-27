@@ -1,0 +1,3 @@
+# Pong_Data/ is the committed Windows build (Unity player and Mono runtime), not source.
+# Keep it out of GitHub's language stats so the repo shows as C#.
+Pong_Data/** linguist-vendored
